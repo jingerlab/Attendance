@@ -12,7 +12,7 @@ The `IF` function evaluates a specific condition and returns one user-defined va
 
 #### General Formula Syntax
 
-$$=\text{IF}(\text{logical\_test}, \text{value\_if\_true}, \text{value\_if\_false})$$
+$$ =\text{IF}(\text{logical\_test}, \text{value\_if\_true}, \text{value\_if\_false})$$
 
 #### Agribusiness Case Example
 
